@@ -31,6 +31,6 @@ Após clonar este repositório em sua máquina, abra o arquivo desejado através
 
 > Envie um código na linguagem C para o Git que execute o Hello World.
 
-#### RESULTADO ESPERADO
+#### RESULTADO ESPERADO:
 O terminal do VSCode deve exibir a mensagem com a string "Hello, World!"
 
