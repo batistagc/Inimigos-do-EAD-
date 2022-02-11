@@ -20,10 +20,17 @@
 
 ## Como executar os programas?
 
- Lista de atividades realizadas em laboratório:
+Após clonar este repositório em sua máquina, abra o arquivo desejado através do Visual Studio Code. Para executar o programa use o comando CTRL + ALT + N.
+
+
+## Lista de atividades realizadas em laboratório:
 
 - [Laboratório 01](#Lab01)
 
 ### Lab01 
 
 > Envie um código na linguagem C para o Git que execute o Hello World.
+
+#### RESULTADO ESPERADO
+O terminal do VSCode deve exibir a mensagem com a string "Hello, World!"
+
