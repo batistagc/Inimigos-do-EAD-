@@ -4,11 +4,11 @@
 
 ## Integrantes
 
-Fabio Silveira Tanikawa TIA:32092563
+ - Fabio Silveira Tanikawa TIA:32092563
 
-Gabriel Batista Cristiano TIA:32090722 
+ - Gabriel Batista Cristiano TIA:32090722 
 
-Julia Carvalho de Souza Castro TIA: 32022298
+ - Julia Carvalho de Souza Castro TIA: 32022298
 
 ## Como compilar os programas?
 
