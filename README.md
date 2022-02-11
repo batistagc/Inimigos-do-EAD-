@@ -14,7 +14,7 @@
 
 ## Como executar os programas?
 
-> Lista de atividades realizadas em laboratório:
+ Lista de atividades realizadas em laboratório:
 
 - [Laboratório 01](#Lab01)
 
