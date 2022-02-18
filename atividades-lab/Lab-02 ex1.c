@@ -15,7 +15,7 @@ int main()
     printf ("Digite os valores da matriz:\n");
     for (i=0; i<D; i++)
     {
-        printf("Agora, digite os valores da %d linha: \n", i+1);
+        printf("Agora, digite os valores das %d linhas: \n", i+1);
         for (j=0; j<D; j++)
         scanf("%d", &a[i][j]);
 
