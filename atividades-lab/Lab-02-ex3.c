@@ -5,14 +5,14 @@
 int main() 
 {
     int input = 0;
-    int *repo;
+    int *repo, h;
 
     while(input%2 == 0) {
         printf("Insira um número máximo Ímpar: ");
         scanf("%d", &input);
     }
 
-    repo = (int *)malloc(input * sizeof(int));
+    *repo = (int *)malloc(input * sizeof(int));
 
     for(int i = 0; i <= input; i++){
         repo[i] = i+1;
@@ -21,6 +21,8 @@ int main()
         printf("%d ", repo[i]);
     }
 
-    free(repo);
+    printf("Elements: %ld ", sizeof(*repo));
+    free(*repo);
+    *repo = NULL;
     return 0;
 }
