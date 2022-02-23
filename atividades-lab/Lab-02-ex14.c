@@ -41,6 +41,4 @@ void splitString(char *str, char *secondStr, char insert, int index)
         str[index + 1] = '\0';
     }
 
-
-
 }
