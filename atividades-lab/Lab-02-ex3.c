@@ -1,28 +1,34 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
+#include <stdio.h> 
+#include <stdlib.h> 
 
-int main() 
-{
-    int input = 0;
-    int *repo, h;
+int main(void) {
 
-    while(input%2 == 0) {
-        printf("Insira um número máximo Ímpar: ");
-        scanf("%d", &input);
+    int input, i, j;
+    
+    printf("Digite um numero ímpar:.\n");
+    scanf("%d", &input);
+    printf("\n");
+
+    if (input % 2 ==0)
+    {
+       printf("Numero invalido.\n");
+       return 1;
+    }
+    else
+    {
+        for( i = 0; i<= (input / 2) + 1; i++)
+        {
+            for ( j = i + 1; j <= input - i; j++ )
+            {
+                printf("%d ",j);
+            }
+
+            printf("\n");
+
+            for ( j = 0; j < (i + 1) * 2; j++ )
+              printf(" ");
+         }
     }
 
-    *repo = (int *)malloc(input * sizeof(int));
-
-    for(int i = 0; i <= input; i++){
-        repo[i] = i+1;
-    }
-    for(int i = 0; i < input; i++){
-        printf("%d ", repo[i]);
-    }
-
-    printf("Elements: %ld ", sizeof(*repo));
-    free(*repo);
-    *repo = NULL;
     return 0;
 }
