@@ -5,7 +5,7 @@
 int main() 
 {    
     const char* str = "exemplo";
-    int busca = 'x';
+    int busca = 'o';
     
     int posicao = strchr(str, busca) - str;
     printf("%d\n", posicao);
