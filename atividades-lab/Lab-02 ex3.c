@@ -1,24 +1,28 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
 int main() 
 {
-    bool controler = false;
-    int input, repo[];
+    int input = 0;
+    int *repo, h;
 
-    while(controler == false) {
-        printf("Insira um número máximo Ímpar: /n");
+    while(input%2 == 0) {
+        printf("Insira um número máximo Ímpar: ");
         scanf("%d", &input);
-        input/2 != 0){
-            controler = true;
-        }
     }
 
+    *repo = (int *)malloc(input * sizeof(int));
 
-    printf(input);
+    for(int i = 0; i <= input; i++){
+        repo[i] = i+1;
+    }
+    for(int i = 0; i < input; i++){
+        printf("%d ", repo[i]);
+    }
 
-    
-
-
+    printf("Elements: %ld ", sizeof(*repo));
+    free(*repo);
+    *repo = NULL;
     return 0;
 }
