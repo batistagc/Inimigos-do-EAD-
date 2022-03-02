@@ -33,7 +33,9 @@ Após clonar este repositório em sua máquina, abra o arquivo desejado através
 
 #### RESULTADO ESPERADO:
 O terminal do VSCode deve exibir a mensagem com a string "Hello, World!"
+
 [[https://github.com/batistagc/Inimigos-do-EAD-/blob/main/ASSETS/Lab01a-hello.PNG]]
+ 
 ### Lab02 
 
 > Implemente a versão multiprocessada do cálculo do fatorial.
