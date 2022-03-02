@@ -33,4 +33,10 @@ Após clonar este repositório em sua máquina, abra o arquivo desejado através
 
 #### RESULTADO ESPERADO:
 O terminal do VSCode deve exibir a mensagem com a string "Hello, World!"
+{{link}}
+### Lab02 
 
+> Implemente a versão multiprocessada do cálculo do fatorial.
+
+#### RESULTADO ESPERADO:
+O terminal do VSCode deve exibir a mensagem com a string "Hello, World!"
