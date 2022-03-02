@@ -26,6 +26,7 @@ Após clonar este repositório em sua máquina, abra o arquivo desejado através
 ## Lista de atividades realizadas em laboratório:
 
 - [Laboratório 01](#Lab01)
+- [Laboratório 02](#Lab02)
 
 ### Lab01 
 
