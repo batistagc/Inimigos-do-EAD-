@@ -28,12 +28,20 @@ Após clonar este repositório em sua máquina, abra o arquivo desejado através
 - [Laboratório 01](#Lab01)
 - [Laboratório 02](#Lab02)
 
-### Lab01 
+### Lab01a 
 
 > Envie um código na linguagem C para o Git que execute o Hello World.
 
 #### RESULTADO ESPERADO:
 O terminal do VSCode deve exibir a mensagem com a string "Hello, World!"
+
+<img src="https://github.com/batistagc/Inimigos-do-EAD-/blob/main/ASSETS/Lab01a-hello.PNG">
+
+### Lab01b
+
+> 1. Crie um programa capaz de ler os dados de uma matriz quadrada de inteiros. Ao final da leitura o programa deverá imprimir o número da linha que contém o menor dentre todos os números lidos.
+
+#### RESULTADO ESPERADO:
 
 <img src="https://github.com/batistagc/Inimigos-do-EAD-/blob/main/ASSETS/Lab01a-hello.PNG">
  
@@ -42,4 +50,4 @@ O terminal do VSCode deve exibir a mensagem com a string "Hello, World!"
 > Implemente a versão multiprocessada do cálculo do fatorial.
 
 #### RESULTADO ESPERADO:
-O terminal do VSCode deve exibir a mensagem com a string "Hello, World!"
+O terminal do VSCode deve exibir 
