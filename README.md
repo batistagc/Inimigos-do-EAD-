@@ -19,6 +19,8 @@
  
  #### No terminal 
  - Para compilação pelo terminal ou prompt de comando é necessário estar dentro do mesmo diretório dos arquivos de código e executar o seguinte comando:
+
+` gcc nome-do-arquivo.c -o nome-do-arquivo-executavel `
  
 
 ## Como executar os programas?
