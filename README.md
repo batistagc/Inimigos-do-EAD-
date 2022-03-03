@@ -17,11 +17,18 @@
  
  - **Lembrando** que também é necessário ter o [MinGW](https://osdn.net/projects/mingw/releases/) instalado e configurado na sua máquina.
  
+ #### No terminal 
+ - Para compilação pelo terminal ou prompt de comando é necessário estar dentro do mesmo diretório dos arquivos de código e executar o seguinte comando:
+ 
 
 ## Como executar os programas?
 
 Após clonar este repositório em sua máquina, abra o arquivo desejado através do Visual Studio Code. Para executar o programa use o comando CTRL + ALT + N.
 
+#### No terminal 
+ 
+ - Após rodar o comando de compilação, basta executar o arquivo executável gerado com a seguinte linha de comando:
+ ` ./nome-do-arquivo-executavel 
 
 ## Lista de atividades realizadas em laboratório:
 
