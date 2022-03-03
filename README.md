@@ -28,8 +28,8 @@ Após clonar este repositório em sua máquina, abra o arquivo desejado através
 #### No terminal 
  
  - Após rodar o comando de compilação, basta executar o arquivo executável gerado com a seguinte linha de comando:
- ` ./nome-do-arquivo-executavel 
-
+ ` ./nome-do-arquivo-executavel `
+ 
 ## Lista de atividades realizadas em laboratório:
 
 - [Laboratório 01](#Lab01)
