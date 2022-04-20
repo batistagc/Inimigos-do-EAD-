@@ -37,6 +37,8 @@ Após clonar este repositório em sua máquina, abra o arquivo desejado através
 
 - [Laboratório 01](#Lab01)
 - [Laboratório 02](#Lab02)
+- [Laboratório 03](#Lab03)
+- [Laboratório 04](#Lab04)
 
 ### Lab01a 
 
@@ -146,6 +148,7 @@ O terminal do VSCode deve exibir
 > Crie um código-fonte que utilize fork() e shmget() entre 2 processos (pai e filho).
 
 #### RESULTADO ESPERADO:
-O terminal do VSCode deve exibir 
+
+<img src="https://github.com/batistagc/Inimigos-do-EAD-/blob/main/ASSETS/Captura%20de%20Tela%202022-04-20%20às%2015.55.58.png">
 
 
