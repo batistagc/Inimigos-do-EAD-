@@ -149,6 +149,6 @@ O terminal do VSCode deve exibir
 
 #### RESULTADO ESPERADO:
 
-<img src="https://github.com/batistagc/Inimigos-do-EAD-/blob/main/ASSETS/Captura%20de%20Tela%202022-04-20%20às%2015.55.58.png">
+<img src="https://github.com/batistagc/Inimigos-do-EAD-/blob/main/ASSETS/Lab04-ex1.PNG">
 
 
