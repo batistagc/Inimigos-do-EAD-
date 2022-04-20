@@ -133,3 +133,19 @@ O terminal do VSCode deve exibir a mensagem com a string "Hello, World!"
 
 #### RESULTADO ESPERADO:
 O terminal do VSCode deve exibir 
+
+### Lab03 
+
+> Structs e arquivos.
+
+#### RESULTADO ESPERADO:
+O terminal do VSCode deve exibir 
+
+### Lab04 
+
+> Crie um código-fonte que utilize fork() e shmget() entre 2 processos (pai e filho).
+
+#### RESULTADO ESPERADO:
+O terminal do VSCode deve exibir 
+
+
