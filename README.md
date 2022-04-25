@@ -151,6 +151,6 @@ O terminal do VSCode deve exibir
 
 <img src="https://github.com/batistagc/Inimigos-do-EAD-/blob/main/ASSETS/Lab04-ex1.PNG">
 
-### LAB04-Projeto inicial
+### Lab04-Projeto inicial
 
 > Desenvolver uma colução inicial para In(10) e construir um grafo de dependências (DAG) para o algoritmo construído.
