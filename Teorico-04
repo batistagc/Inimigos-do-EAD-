@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main(void) {
+  int T = 10;
+  float soma = 0; 
+  float termos;
+
+  for(float i = 1; i<=T; i++){
+    termos = 1/i;
+    soma += termos;
+  }
+  printf("S = %f", soma);
+  
+  return 0;  
+}
