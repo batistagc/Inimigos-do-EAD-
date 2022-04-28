@@ -159,4 +159,4 @@ O terminal do VSCode deve exibir
 
 #### RESULTADO ESPERADO:
 
-
+<img src="https://github.com/batistagc/Inimigos-do-EAD-/blob/main/ASSETS/Teorico_04.png">
