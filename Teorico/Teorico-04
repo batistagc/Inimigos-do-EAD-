@@ -7,9 +7,10 @@ int main(void) {
 
   for(float i = 1; i<=T; i++){
     termos = 1/i;
+    printf("S = %.3f + 1/%.3f \n", soma, i);
     soma += termos;
   }
-  printf("S = %f", soma);
+  printf("S = %.3f", soma);
   
   return 0;  
 }
