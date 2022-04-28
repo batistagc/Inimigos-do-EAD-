@@ -40,6 +40,8 @@ Após clonar este repositório em sua máquina, abra o arquivo desejado através
 - [Laboratório 03](#Lab03)
 - [Laboratório 04](#Lab04)
 
+- [Teórico 04](#Teorico04)
+
 ### Lab01a 
 
 > Envie um código na linguagem C para o Git que execute o Hello World.
@@ -151,6 +153,10 @@ O terminal do VSCode deve exibir
 
 <img src="https://github.com/batistagc/Inimigos-do-EAD-/blob/main/ASSETS/Lab04-ex1.PNG">
 
-### Lab04-Projeto inicial
+### Teorico04
 
-> Desenvolver uma colução inicial para In(10) e construir um grafo de dependências (DAG) para o algoritmo construído.
+> Desenvolver uma coleção inicial para In(10) e construir um grafo de dependências (DAG) para o algoritmo construído.
+
+#### RESULTADO ESPERADO:
+
+
