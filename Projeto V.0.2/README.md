@@ -16,7 +16,7 @@ IN(1000)= 5.485
 
 Tempo serial: 0.005
 
-Tempo paralelo:0.001666
+Tempo paralelo: 0.001666
 
 ## No calculo do tempo de execução dos programas, foi utilizado a função time.
-include <time.h>
+biblioteca --- include <time.h>
