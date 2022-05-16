@@ -2,11 +2,11 @@
 
 Para compilar o programa, utilizamos o gcc.
 
-    $ gcc -o PROJv2 PROJv2.c
+    $ gcc -g -Wall -fopenmp -o PROJv2 PROJv2.c
 
 Como executar o programa
 
-    $ ./PROJv2.c
+    $ ./PROJv2.c 5
 
 ## Como provar os resultados obtidos?
 
