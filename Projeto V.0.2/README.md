@@ -2,7 +2,7 @@
 
 Para compilar o programa, utilizamos o gcc.
 
-$ gcc -o PROJv2 PROJv2.c
+    $ gcc -o PROJv2 PROJv2.c
 
 Como executar o programa
 
