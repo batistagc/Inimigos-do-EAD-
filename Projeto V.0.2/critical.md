@@ -7,4 +7,4 @@ Assim, evita-se erros no resultado final do código.
 No código que desenvolvemos, utilizamos o comando "#pragma omp critical" antes de acumular os valores dos cálculos dos termos, executados em threads paralelas 
 em uma variável global, afim de evitar erros de cálculo no resultado final.
 
-<img src="[https://github.com/batistagc/Inimigos-do-EAD-/blob/main/ASSETS/Lab01-ex6.PNG](https://github.com/batistagc/Inimigos-do-EAD-/blob/main/ASSETS/print_global_var.PNG)">
+<img src="https://github.com/batistagc/Inimigos-do-EAD-/blob/main/ASSETS/Lab01-ex6.PNG](https://github.com/batistagc/Inimigos-do-EAD-/blob/main/ASSETS/print_global_var.PNG)">
