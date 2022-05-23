@@ -6,7 +6,7 @@ Para compilar o programa, utilizamos o gcc.
 
 Como executar o programa
 
-    $ ./PROJv2.c 5
+    $ ./PROJv2 5 "cinco é a quantidade de threads"
 
 ## Como provar os resultados obtidos?
 
