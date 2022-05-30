@@ -13,18 +13,17 @@ Como executar o programa
 Execução do código:
 
 IN(100000000)= 22.817
+10^8-"oito zeros"
 
-10^8- "oito zeros"
+Tempo serial: 
 
-Tempo serial: 10m03.779s
+10m03.779s
 
 Tempo paralelo: 
 
-real 2m29.043s
-
-user 0m35.440s
-
-sys  0m0.935
+"real 2m29.043s"
+"user 0m35.440s"
+"sys  0m0.935"
 
 ## No calculo do tempo de execução dos programas, foi utilizado o time.
 
