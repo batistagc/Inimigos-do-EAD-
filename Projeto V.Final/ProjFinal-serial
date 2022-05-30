@@ -4,7 +4,7 @@
 
 int main(void) {
 
-  long int T = 1000;
+  long int T = 100000000;
   double soma = 0;
   
   for (long int i = 1; i <= T; i++){
