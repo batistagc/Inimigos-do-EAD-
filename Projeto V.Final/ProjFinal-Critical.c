@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <omp.h>
 
-long int T = 1000000000;
+long int T = 100000000;
 double globalVar = 0.0;
 void serie();
 
